@@ -10,4 +10,11 @@ body{
 
 h1 {
 	font-family: 'Abril Fatface';
+	font-size: 60px;
+}
+
+.intro {
+	font-size: 21px;
+	margin: auto;
+	width: 60%;
 }
